@@ -16,5 +16,5 @@ print(result) # 출력: 17
 def make_multiplier(n):
     return lambda x: x * n
 
-returnedFunction = make_multiplier(5) # lambda x: x * n 가 return 됐다.
+returnedFunction = make_multiplier(5) # lambda x: x * 5 가 return 됐다.
 print(returnedFunction(10)) # 출력: 50
