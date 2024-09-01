@@ -1,5 +1,5 @@
 def sayHello(name, age):
-    print("My name is", name)
-    print("I'm", age, "Years old")
+    print(f"My name is {name}")
+    print(f"I'm {age} Years old")
 
 sayHello("Park", 22)
