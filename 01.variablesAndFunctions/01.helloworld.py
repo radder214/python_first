@@ -5,4 +5,6 @@ print('hello wolrd')
 age = 12
 print("Hello I'm", age, "years old!")
 print("Hello I'm     ", age, "    years old too!")
-print(f"I'm {age} Years old!")
+
+# =======================================
+print(f"OMG!!! I'm {age} Years old!") # f = format
