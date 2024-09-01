@@ -1,4 +1,11 @@
-def sayHello(name):
-    print("My name is", name)
+def sayHello(name = "anonymous"): # name parameter에 기본값(anonymous) 설정
+    print(f"My name is {name}")
 
-print(sayHello("Park"))
+sayHello("Park")
+sayHello()
+
+def sayAge(age = 60): # age parameter에 기본값(60) 설정
+    print(f"Your age is {age}")
+
+sayAge(20)
+sayAge()
