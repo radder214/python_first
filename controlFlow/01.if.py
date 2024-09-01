@@ -7,6 +7,9 @@ if (10 >= 9):
 if (10 == 10):
     print('Correct3!')
 
+if (10 != 11):
+    print('Correct3-1!')
+
 if 10 == 9 or 2 >= 1:
     print('Correct4!')
 
