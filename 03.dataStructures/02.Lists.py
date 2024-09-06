@@ -10,8 +10,14 @@ print(list[0], list[3])
 print(list[len(list) - 1])
 print(list[len(list) - 1][2])
 
+# 뒤에서부터 접근도 가능
+print("=======================")
+print(list[-1])
+print(list[-3])
+print("=======================")
+
 # element 추가
-list.append("Sat")
+list.append("Sat")  
 print(list)
 list.append("Sun")
 print(list)
