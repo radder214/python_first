@@ -1,4 +1,4 @@
-# python for LLM
+# Python for LLM
 
 ### Variables and Functions
 - Variables
