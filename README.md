@@ -1,2 +1,3 @@
-# python_first
-practice python for LLM
+# python for LLM
+
+
