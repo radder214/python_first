@@ -17,3 +17,18 @@
 - Python Standard Library
 - While
 ---
+### Data Structures
+- Method
+- List
+- Tuple
+- Dict(Dictionary)
+- For Loop
+- URL Formatting
+- Requests
+- Status Codes
+---
+### OOP
+---
+### JOB SCRAPER
+---
+### BUILD A WEBSITE WITH FLASK
