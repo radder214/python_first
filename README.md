@@ -7,5 +7,13 @@
 - Indentation
 - Parameters
 - Multiple Parameters
-- Parameters
+- Default Parameters
+- Return Values
+---
+### Control Flow
+- if
+- else & elif
+- and, or
+- Python Standard Library
+- While
 ---
