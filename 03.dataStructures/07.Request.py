@@ -1,5 +1,5 @@
 # Python Standard Library 가 아닌 인터넷에서 다운 받은 package import
-# import requests
+# import requests --> 이렇게 import 해도 된다.
 
 from requests import get
 
