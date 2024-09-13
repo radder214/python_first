@@ -30,7 +30,7 @@
 ### OOP
 - classes
 - Methods
-- Inheritance
+- Inheritance(상속)
 ---
 ### JOB SCRAPER
 ---
