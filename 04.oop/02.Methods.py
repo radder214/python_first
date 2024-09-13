@@ -21,7 +21,7 @@ wendy   = Puppy(
     name  = "Wendy"
 )
 
-# ############ instance 속성 출력 ############
+# ############# instance 속성 출력 #############
 print(f"radder  : {radder.name}, {radder.age}, {radder.color}")
 print(f"nepa    : {nepa.name}, {nepa.age}, {nepa.color}")
 print(f"wendy   : {wendy.name}, {wendy.age}, {wendy.color}")
