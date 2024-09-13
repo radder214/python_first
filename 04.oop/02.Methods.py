@@ -21,12 +21,12 @@ wendy   = Puppy(
     name  = "Wendy"
 )
 
-# ############# instance 속성 출력 #############
+# ############ instance 속성 출력 ############
 print(f"radder  : {radder.name}, {radder.age}, {radder.color}")
 print(f"nepa    : {nepa.name}, {nepa.age}, {nepa.color}")
 print(f"wendy   : {wendy.name}, {wendy.age}, {wendy.color}")
 
-# ############ __str__ ############
+# ############# __str__ #############
 # instance 전체를 출력하려고 할 때 자동으로 __str__ method 가 호출된다.
 # 따로 __str__ method 를 호출할 필요가 없다.
 print(radder)
