@@ -28,7 +28,15 @@
 - Status Codes
 ---
 ### OOP
+- classes
+- Methods
+- Inheritance
 ---
 ### JOB SCRAPER
 ---
 ### BUILD A WEBSITE WITH FLASK
+- Flask
+- Render Template
+- Pico
+- Cache
+- File Download
